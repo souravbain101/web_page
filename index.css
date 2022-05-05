@@ -1,0 +1,132 @@
+
+        .name {
+            background-color: #8a2be200;
+            color: #d6674d;
+            text-align: center;
+            font-family: fantasy;
+            font-size: 40px;
+        }
+
+        .navbar li {
+            list-style: none;
+            float: left;
+
+        }
+
+        .navbar {
+            background-color: #d6674d;
+            overflow: auto;
+            padding: 18px 4px;
+            border-radius: 27px;
+        }
+
+        .navbar li a {
+            font-size: 20px;
+            text-decoration: none;
+            padding: 10px 10px;
+            color: rgb(255 255 255);
+        }
+
+        .search input {
+            float: right;
+            border-radius: 8px;
+            margin-right: 39px;
+        }
+
+        .search input[type=text] {
+            border: 1px solid red;
+        }
+
+        .navbar li a:hover {
+            color: black;
+
+        }
+
+        body {
+            background-image: url("download.jpeg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position-x: right;
+            
+        }
+
+        h3 {
+            /* FONT-SIZE: 20PX; */
+            font-size: 34px;
+            color: #ffffffcf;
+            /* margin: auto; */
+            text-align: center;
+        }
+
+        p {
+            font-size: 20px;
+            color: #ffffffd4;
+            border: 1px solid #ff000000;
+            width: 500px;
+            /* margin: auto; */
+            text-align: center;
+        }
+
+        .button button {
+            font-size: 18px;
+            /* padding-left: 12px; */
+            margin-left: 182px;
+            margin-top: 42px;
+            border-radius: 16px;
+        }
+
+        .button button:hover {
+            color: #d72b2bbf;
+        }
+
+       .footer li {
+        list-style-type: none;
+    float: left;
+    background-color: #070707;
+    border: 2px solid #ffffff9c;
+    border-radius: 4px;
+    padding: 4px 10px;
+    margin: 4px;
+    position: relative;
+    top: 240px;
+           
+       }
+       .footer li a{
+        text-decoration: none;
+        background-color: black;
+           color: white;
+       }
+       /* .fa-facebook{
+           
+       } */
+       .fa:hover{
+           opacity: 0.7;
+       }
+       hr{
+           color: white;
+           position: relative;
+    top: 281px;
+    right: 75px;
+       }
+       .reserved{
+        color: white;
+    
+    background-color: black;
+    position: relative;
+    top: 245px;
+    border-radius: 4px;
+    left: 1148px;
+    
+    padding: 1px;
+       }
+       .reserved:hover{
+           color: rgb(165, 157, 157);
+       }
+       #se{
+        position: relative;
+   
+    left: 1233px;
+    bottom: 2px;
+       }
+      
+ 
